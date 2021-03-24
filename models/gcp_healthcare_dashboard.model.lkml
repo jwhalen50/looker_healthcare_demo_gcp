@@ -5,4 +5,6 @@ include: "/views/**/*.view"
 
 explore: hospital_discharge {}
 
+explore: patient {}
+
 explore: whoami {}

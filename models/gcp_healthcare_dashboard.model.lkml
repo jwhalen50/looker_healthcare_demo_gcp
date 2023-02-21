@@ -7,4 +7,6 @@ explore: hospital_discharge {}
 
 explore: patient {}
 
+explore: patient_health_service_areas_count {}
+
 explore: whoami {}
